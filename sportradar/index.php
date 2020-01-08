@@ -38,7 +38,7 @@
 
 		    <?php include 'routes/routes.php';?>        <!------- Router ------->
 		   
-
+		</div>
 	</body>
 </html>
 
