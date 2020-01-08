@@ -68,7 +68,7 @@ Route::set('sport', function(){
 });
 
 
-if(Route::$page_matched == false){
+if(Route::$page_matched === false){
 	echo '<script>page404();</script>';
 }
 
